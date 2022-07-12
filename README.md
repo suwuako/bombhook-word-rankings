@@ -4,7 +4,7 @@ a little script to help bombhook <a href="https://github.com/suwuako/bombhook"> 
 ## Findings
 
 ### STATS: (in order of highest to lowest
-
+```
 E - 283473 total letters, 11.263513032947026% of total wordset
 
 S - 242403 total letters, 9.631638109186618% of total wordset
@@ -56,7 +56,7 @@ X - 7156 total letters, 0.28433642450522245% of total wordset
 Q - 4256 total letters, 0.16910785672082543% of total wordset
 
 J - 4194 total letters, 0.1666443494095728% of total wordset
-
+```
 ### For bombhook dict format:
 ```
 {
