@@ -58,7 +58,7 @@ Q - 4256 total letters, 0.16910785672082543% of total wordset
 J - 4194 total letters, 0.1666443494095728% of total wordset
 
 ### For bombhook dict format:
-`
+```
 {
 
   'E' : 11.263513032947026
@@ -114,4 +114,4 @@ J - 4194 total letters, 0.1666443494095728% of total wordset
   'J' : 0.1666443494095728
   
 }
-`
+```
