@@ -73,5 +73,5 @@ for k, v in outcopy.items():
 print("For bombhook dict format:")
 print("{")
 for k, v in outcopy.items():
-	print(f"{k} : {v['percentile']}")
+	print(f"'{k}' : {v['percentile']}")
 print("}")
