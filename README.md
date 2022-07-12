@@ -1,5 +1,5 @@
 # bombhook-word-rankings
-a little script to help bombhook (suwuako/bombhook) determine how common each letter is 
+a little script to help bombhook <a href="https://github.com/suwuako/bombhook"> (suwuako/bombhook) <a> determine how common each letter is 
 
 ## Findings
 
